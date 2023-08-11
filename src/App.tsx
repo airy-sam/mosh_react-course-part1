@@ -1,7 +1,6 @@
-import UserList from "./components/UserList";
 
 function App() {
-  return <UserList />;
+  return <dev />;
 }
 
 export default App;
