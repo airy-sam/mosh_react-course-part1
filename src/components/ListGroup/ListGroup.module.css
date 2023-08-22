@@ -1,0 +1,11 @@
+
+.listGroup{
+    list-style: none;
+    padding: 0;
+}
+
+.container{
+    border-radius: 3%;
+    
+    background-color: aquamarine;
+}
